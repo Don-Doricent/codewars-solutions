@@ -12,7 +12,7 @@ Examples
 
 'B' and 'g' returns 0
 
-'0' and '?' returns -1 */
+'0' and '?' returns -1 */ 
 
 function sameCase(a, b) {
     if (!isLetter(a) || !isLetter(b)) {
