@@ -1,3 +1,7 @@
+// Kata: remove-exclamation
+
+// Prompt: <PASTE PROMPT HERE>
+
 /* Description:
 Remove all exclamation marks from the end of sentence.
 

@@ -1,3 +1,7 @@
+// Kata: check-same-case
+
+// Prompt: <PASTE PROMPT HERE>
+
 /* Write a function that will check if two given characters are the same case.
 
 If either of the characters is not a letter, return -1
